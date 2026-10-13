@@ -20,12 +20,12 @@ I built this Weather App using Kotlin in Android Studio to fetch and display wea
 - Weather API
 
 ## Screenshots
-<img width="720" height="1600" alt="2" src="https://github.com/user-attachments/assets/2f4ed789-a543-44e4-b8b6-f9aed7252c69" />
-<img width="720" height="1600" alt="1" src="https://github.com/user-attachments/assets/d700a3b3-4bab-4a71-835e-409a3b66dcac" />
-<img width="720" height="1600" alt="3" src="https://github.com/user-attachments/assets/597346f1-fb75-4dfb-9178-3bc2e7ed49cd" />
-<img width="720" height="1600" alt="4" src="https://github.com/user-attachments/assets/883d0c62-78ad-480b-87c8-56dddc19ba42" />
-<img width="720" height="1600" alt="5" src="https://github.com/user-attachments/assets/43c1d428-fb8e-4e88-be9b-d33b0a6ac067" />
-<img width="720" height="1600" alt="6" src="https://github.com/user-attachments/assets/d8103f8a-2c16-4e2e-a559-4dbe3c925d9a" />
+<img width="220" height="400" alt="2" src="https://github.com/user-attachments/assets/2f4ed789-a543-44e4-b8b6-f9aed7252c69" />
+<img width="220" height="400" alt="1" src="https://github.com/user-attachments/assets/d700a3b3-4bab-4a71-835e-409a3b66dcac" />
+<img width="220" height="400" alt="3" src="https://github.com/user-attachments/assets/597346f1-fb75-4dfb-9178-3bc2e7ed49cd" />
+<img width="220" height="400" alt="4" src="https://github.com/user-attachments/assets/883d0c62-78ad-480b-87c8-56dddc19ba42" />
+<img width="220" height="400" alt="5" src="https://github.com/user-attachments/assets/43c1d428-fb8e-4e88-be9b-d33b0a6ac067" />
+<img width="220" height="400" alt="6" src="https://github.com/user-attachments/assets/d8103f8a-2c16-4e2e-a559-4dbe3c925d9a" />
 
 ## Setup & Usage
 1. Clone this repository:
